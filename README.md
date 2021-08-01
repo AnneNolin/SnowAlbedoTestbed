@@ -9,8 +9,9 @@ This project is composed of six areas:
 6. Inventory of snow reflectance/BRDF/albedo data products
 
  <body>
-  <form name="input" method="POST" action="https://formspree.io/anne.nolin@gmail.com"> 
-   <input type="text" name="Name" placeholder="Snow Albedo Testbed Scoping Study">
+  <form name="input" method="POST" action="https://formspree.io/anne.nolin@gmail.com">
+   Name: <input type="text" name="Name" placeholder="Snow Albedo Testbed Scoping Study">
+   Email: <ijput type="email" name="_replyto" placeholder="anne.nolin@gmail.com">
    Message: <textarea name="message" placeholder="Annotated Bibliography Entry"></textarea>
    <input type="submit" value="Send">
    <input type="hidden" name=_subject" value="List of authors" />
