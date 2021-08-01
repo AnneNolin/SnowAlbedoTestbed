@@ -8,21 +8,12 @@ This project is composed of six areas:
 5. Calibration and validaton of snow physical properties
 6. Inventory of snow reflectance/BRDF/albedo data products
 
- <form
-       method="POST"
-       action="https://formspree.io/f/meqvrzjq"
- > 
-   <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
- 
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
+ <body>
+  <form name="input" method="POST" action="https://formspree.io/anne.nolin@gmail.com"> 
+   <input type="text" name="Name" placeholder="Snow Albedo Testbed Scoping Study">
+   Message: <textarea name="message" placeholder="Annotated Bibliography Entry"></textarea>
+   <input type="submit" value="Send">
+   <input type="hidden" name=_subject" value="List of authors" />
+   <input type="hidden" name=_next" value="thanks.html" />
  </form>
+ </body>
