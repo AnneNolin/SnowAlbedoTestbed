@@ -11,8 +11,8 @@ This project is composed of six areas:
  <body>
   <form name="input" method="POST" action="https://formspree.io/f/meqvrzjq">
    Name: <input type="text" name="Name" placeholder="Your name">
-   Email: <ijput type="email" name="_replyto" placeholder="Your email">
-   Message: <textarea name="message" placeholder="Your text"></textarea>
+   Email: <input type="email" name="_replyto" placeholder="Your email">
+   Message: <textarea name="message"placeholder="Your text"></textarea>
    <input type="submit" value="Send">
    <input type="hidden" name=_subject" value="List of authors" />
    <input type="hidden" name=_next" value="thanks.html" />
