@@ -12,10 +12,7 @@ This project is composed of six areas:
 
  <body>
   <form name="input" method="POST" action="https://formspree.io/f/meqvrzjq">
-   Name: <input type="text" name="Name" placeholder="Your name">
-
-   Email: <input type="email" name="_replyto" placeholder="Your email">
-
+   Snow Albedo Subgroup Topic: <input type="text" name="Name" placeholder="Subgroup name">
    Message: <textarea name="message" placeholder="Your text"> </textarea>
 
    <input type="submit" value="Send">
