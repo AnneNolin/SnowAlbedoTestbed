@@ -7,17 +7,3 @@ This project is composed of six areas:
 4. Atmospheric correction of snow and snow/cloud discrimination
 5. Calibration and validaton of snow physical properties
 6. Inventory of snow reflectance/BRDF/albedo data products
-
-
-
-# <body>
-# <form name="input" method="POST" action="https://formspree.io/f/meqvrzjq">
-# Snow Albedo Subgroup Topic: <input type="text" name="Name" placeholder="Subgroup name">
-# Message: <textarea name="message" placeholder="Your text"> </textarea>
-# <input type="submit" value="Send">
-# <input type="hidden" name="_subject" value="List of authors" />
-# <input type="hidden" name="_subject" value="Title" />
-# <input type="hidden" name="_subject" value="Journal" />
-# <input type="hidden" name="_subject" value="DOI" />
-# </form>
-# </body>
