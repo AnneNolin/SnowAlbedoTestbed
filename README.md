@@ -13,11 +13,11 @@ This project is composed of six areas:
  <body>
   <form name="input" method="POST" action="https://formspree.io/f/meqvrzjq">
    Name: <input type="text" name="Name" placeholder="Your name">
-   /break
+
    Email: <input type="email" name="_replyto" placeholder="Your email">
-   /break
+
    Message: <textarea name="message" placeholder="Your text"> </textarea>
-   /break
+
    <input type="submit" value="Send">
    <input type="hidden" name="_subject" value="List of authors" />
    <input type="hidden" name="_subject" value="Title" />
