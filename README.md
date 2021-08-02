@@ -8,6 +8,8 @@ This project is composed of six areas:
 5. Calibration and validaton of snow physical properties
 6. Inventory of snow reflectance/BRDF/albedo data products
 
+/break
+
  <body>
   <form name="input" method="POST" action="https://formspree.io/f/meqvrzjq">
    Name: <input type="text" name="Name" placeholder="Your name">
