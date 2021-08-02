@@ -10,15 +10,14 @@ This project is composed of six areas:
 
 
 
- <body>
-  <form name="input" method="POST" action="https://formspree.io/f/meqvrzjq">
-   Snow Albedo Subgroup Topic: <input type="text" name="Name" placeholder="Subgroup name">
-   Message: <textarea name="message" placeholder="Your text"> </textarea>
-
-   <input type="submit" value="Send">
-   <input type="hidden" name="_subject" value="List of authors" />
-   <input type="hidden" name="_subject" value="Title" />
-   <input type="hidden" name="_subject" value="Journal" />
-   <input type="hidden" name="_subject" value="DOI" />
- </form>
- </body>
+# <body>
+# <form name="input" method="POST" action="https://formspree.io/f/meqvrzjq">
+#   Snow Albedo Subgroup Topic: <input type="text" name="Name" placeholder="Subgroup name">
+#   Message: <textarea name="message" placeholder="Your text"> </textarea>
+#   <input type="submit" value="Send">
+#   <input type="hidden" name="_subject" value="List of authors" />
+#   <input type="hidden" name="_subject" value="Title" />
+#   <input type="hidden" name="_subject" value="Journal" />
+#   <input type="hidden" name="_subject" value="DOI" />
+# </form>
+# </body>
